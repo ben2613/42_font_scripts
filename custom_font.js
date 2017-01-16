@@ -91,7 +91,6 @@ function readCookie() {
 (function() {
     'use strict';
     // Tested $ is jQuery here
-    readCookie();
     addFontSettingUI();
     registerFontBotton();
     readCookie();
